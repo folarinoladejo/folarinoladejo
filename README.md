@@ -32,10 +32,10 @@ HOW TO REACH ME:
 
 • [Twitter](https://twitter.com/folibabs)
 
-• Linkedin
+• [LinkedIn](https://www.linkedin.com/in/folarin-oladejo)
 
 
-👍Fun Fact: I enjoy watching football
+👍Fun Fact: I enjoy playing football
 
 
 
