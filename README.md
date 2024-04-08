@@ -10,11 +10,15 @@ About me:
 
 
 My Tech Stack:
+
 • ✅JavaScript
 
 • ✅React js
+
 • ✅Python
+
 • ✅PHP & WordPress
+
 • ✅Actively learning other languages
 
 
