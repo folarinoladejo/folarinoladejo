@@ -5,7 +5,7 @@ Hi there 👋 Welcome
 About me:
 • 🚀Web Developer
 • 📚Currently learning AI & ML
-• 📸Content Creator/Technical Writer
+• 📸Tech Content Creator/ Writer
 • 👨‍💻Open Source Contributor
 
 
