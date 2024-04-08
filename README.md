@@ -30,9 +30,7 @@ MY TECH STACK:
 
 HOW TO REACH ME:
 
-• Twitter
-
-• My Portfolio
+• [Twitter](https://twitter.com/folibabs)
 
 • Linkedin
 
