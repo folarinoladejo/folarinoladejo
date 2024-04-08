@@ -2,15 +2,16 @@
 
 Hi there 👋 Welcome
 
-About me:
+ABOUT ME:
 
-• 🚀Web Developer
+• 🚀I'm a Web Developer
 
 • 📚Currently learning AI & ML
 
 • 📸Tech Content Creator/ Writer
 
 • I'm Looking to collaborate on Open Source Projects
+
 
 
 My Tech Stack:
