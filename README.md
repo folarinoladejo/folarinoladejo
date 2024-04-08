@@ -14,7 +14,7 @@ ABOUT ME:
 
 
 
-My Tech Stack:
+MY TECH STACK:
 
 • ✅JavaScript
 
@@ -27,7 +27,8 @@ My Tech Stack:
 • ✅Actively learning other languages
 
 
-How to reach me
+
+HOW TO REACH ME:
 
 • Twitter
 
