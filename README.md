@@ -3,10 +3,14 @@
 Hi there 👋 Welcome
 
 About me:
+
 • 🚀Web Developer
+
 • 📚Currently learning AI & ML
+
 • 📸Tech Content Creator/ Writer
-• 👨‍💻Open Source Contributor
+
+• I'm Looking to collaborate on Open Source Projects
 
 
 My Tech Stack:
@@ -23,8 +27,11 @@ My Tech Stack:
 
 
 How to reach me
+
 • Twitter
+
 • My Portfolio
+
 • Linkedin
 
 
